@@ -159,7 +159,7 @@ p {
 /* footer */
 .footer {
   display: flex;
-  margin: 120px 0px 0 50px;
+  margin: 100px 0px 0 50px;
   gap: 6px;
   justify-content: flex-start;
   align-items: center;
